@@ -1,6 +1,6 @@
 # Live Hack CVE
 <p align="center">
-  <img src="./bad-actor.gif" />
+  <img src="https://github.com/Live-Hack-CVE/.github/blob/main/bad-actor.gif" />
 </p>
 
 
