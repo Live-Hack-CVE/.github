@@ -10,6 +10,8 @@
 
 This organisation is created by this crazy person: [Sn0wAlice](https://github.com/Sn0wAlice) ❤️
 
+You wanna talk ? Go [here](https://github.com/orgs/Live-Hack-CVE/discussions/categories/ideas)
+
 ```cobol
 IDENTIFICATION DIVISION.
 PROGRAM-ID. STRING-PRINT.
