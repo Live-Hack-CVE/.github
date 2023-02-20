@@ -10,7 +10,7 @@
 
 This organisation is created by this crazy person: [Sn0wAlice](https://github.com/Sn0wAlice) ❤️
 
-You wanna talk ? Go [here](https://github.com/orgs/Live-Hack-CVE/discussions/categories/ideas)
+You wanna talk ? Go [here](https://github.com/orgs/Live-Hack-CVE/discussions/categories/ideas). All the changelogs can be found [here](https://github.com/Live-Hack-CVE/Changelog). All my personnal information can be found [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <details>
 <summary>Do not click on this menu</summary>
