@@ -1,6 +1,6 @@
-# Live Hack CVE
+<h1 align="center"> Live Hack CVE </h1>
 <p align="center">
-  <img src="https://github.com/Live-Hack-CVE/.github/blob/main/bad-actor.gif" />
+  <img src="https://github.com/Live-Hack-CVE/.github/blob/main/blackpink.gif" />
 </p>
 
 
@@ -12,18 +12,12 @@ This organisation is created by this crazy person: [Sn0wAlice](https://github.co
 
 You wanna talk ? Go [here](https://github.com/orgs/Live-Hack-CVE/discussions/categories/ideas)
 
-```cobol
-IDENTIFICATION DIVISION.
-PROGRAM-ID. STRING-PRINT.
+<details>
+<summary>Do not click on this menu</summary>
+  <p align="center">
+    <img src="https://github.com/Live-Hack-CVE/.github/blob/main/itsatrap.gif" />
+  </p>
+</details>
 
-DATA DIVISION.
-WORKING-STORAGE SECTION.
-01 STRING PIC X(10) VALUE "for d0p1".
-
-PROCEDURE DIVISION.
-BEGIN.
-    DISPLAY STRING.
-END PROGRAM STRING-PRINT.
-```
 
 ![](https://komarev.com/ghpvc/?username=Live-Hack-CVE&color=ff69b4)
